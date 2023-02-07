@@ -11,7 +11,6 @@ DATA : Download ratings.csv at movielens ml-25m
 [![Collaborative.png](https://i.postimg.cc/hvSs72mX/Collaborative.png)](https://postimg.cc/JD2ZfcP8)
 
 
-
 Collaborative2
 DATA : Download ratings.csv at movielens ml-25m
 
