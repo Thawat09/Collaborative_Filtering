@@ -1,6 +1,7 @@
 # Collaborative_Filtering
 
 Collaborative
+
 DATA : Download ratings.csv at movielens ml-25m
 
 1.will find friends who like us the most.
@@ -12,6 +13,7 @@ DATA : Download ratings.csv at movielens ml-25m
 
 
 Collaborative2
+
 DATA : Download ratings.csv at movielens ml-25m
 
 1.will find friends who like us the most.
